@@ -16,6 +16,11 @@ En producción desde septiembre de 2026. Varias barberías en un mismo sistema, 
 En producción desde abril de 2026. Reservas y cancelaciones con botones de WhatsApp, agenda para los barberos y panel web con acceso por código de WhatsApp. 148 pruebas automatizadas.
 `Node.js` `Express` `Google Sheets API` `WhatsApp Cloud API`
 
+## Otros proyectos
+
+**[YaPidio](https://github.com/diaz021/yapidio)**: prototipo de app móvil de domicilios, desarrollado como proyecto de práctica de la universidad (sin terminar).
+`Ionic` `Angular` `TypeScript` `Capacitor` `Firebase`
+
 ## Tecnologías
 
 - **Desarrollo:** JavaScript (Node.js, Express), PHP (Laravel), HTML y CSS
