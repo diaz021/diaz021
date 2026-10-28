@@ -28,3 +28,8 @@ En producción desde abril de 2026. Reservas y cancelaciones con botones de What
 - Ingeniería de Sistemas, Corporación Universitaria Remington (2022 a 2027)
 - Técnico en Sistemas, SENA (2020)
 - Cursos 2026: Creación de chatbots con API de WhatsApp, Automatizaciones low-code con n8n y Prompt Engineering (Platzi); Cómo consumir la API de OpenAI (Código Facilito)
+
+## Contacto
+
+- Correo: [esdege021@gmail.com](mailto:esdege021@gmail.com)
+- LinkedIn: [Juan Esteban Díaz Rojas](https://www.linkedin.com/in/juan-esteban-diaz-rojas-0a92b92bb/)
