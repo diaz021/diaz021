@@ -18,7 +18,7 @@ En producción desde abril de 2026. Reservas y cancelaciones con botones de What
 
 ## Otros proyectos
 
-**[YaPidio](https://github.com/diaz021/yapidio)**: prototipo de app móvil de domicilios, desarrollado como proyecto de práctica de la universidad (sin terminar).
+**[YaPidio](https://github.com/diaz021/yapidio)**: prototipo de app móvil de domicilios, desarrollado como proyecto del seminario de grado (sin terminar).
 `Ionic` `Angular` `TypeScript` `Capacitor` `Firebase`
 
 ## Tecnologías
