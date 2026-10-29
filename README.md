@@ -37,4 +37,4 @@ En producción desde abril de 2026. Reservas y cancelaciones con botones de What
 ## Contacto
 
 - Correo: [esdege021@gmail.com](mailto:esdege021@gmail.com)
-- LinkedIn: [Juan Esteban Díaz Rojas](https://www.linkedin.com/in/juan-esteban-diaz-rojas-0a92b92bb/)
+- LinkedIn: [Juan Esteban Díaz Rojas](https://www.linkedin.com/in/juan-esteban-diaz-rojas/)
